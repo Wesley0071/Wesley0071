@@ -1,5 +1,15 @@
-## Hi there 👋
+# 🧑🏽‍💻 Sou Wesley Thiago
+Um entusiasta de tecnologia com grande interesse em inovação, desenvolvimento de software e segurança da informação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, onde venho adquirindo conhecimentos sólidos em linguagens de programação, lógica computacional, bancos de dados e arquitetura de sistemas.
 
+# 🖥️ Techs and Languages:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,js,react,java,mysql,github,git,vite,vim,linux,ubuntu,vscode)](https://skillicons.dev)
+
+# 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Wesley0071&theme=dark&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley0071&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Wesley0071&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <!--
 **Wesley0071/Wesley0071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
